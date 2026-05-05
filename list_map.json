@@ -1,3 +1,9 @@
 {
-  "maps": []
+  "maps": [
+    {
+      "name": "v",
+      "url": "https://raw.githubusercontent.com/colmx-peli/mip/main/hh.json",
+      "locked": false
+    }
+  ]
 }
